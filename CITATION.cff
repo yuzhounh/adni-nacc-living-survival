@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+type: software
+title: "Twenty-year living-cohort evolution, administrative censoring maturation and rolling prospective transportability of Alzheimer's disease survival models in ADNI and NACC"
+version: "1.0.0"
+date-released: "2026-11-23"
+license: MIT
+repository-code: "https://github.com/yuzhounh/adni-nacc-living-survival"
+authors:
+  - family-names: Wang
+    given-names: Jing
+    orcid: "https://orcid.org/0000-0002-3286-073X"
+    affiliation: "School of Computer and Information Technology, Xinyang Normal University, Xinyang, China"
+    email: "wangjing@xynu.edu.cn"
+keywords:
+  - Alzheimer's disease
+  - ADNI
+  - NACC
+  - survival analysis
+  - administrative censoring
+  - risk calibration
+  - Ridge-Cox
+  - reproducibility
